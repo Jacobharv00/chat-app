@@ -1,1 +1,10 @@
+.navbar-container {
+  background: #A599B5;
+}
 
+.app-name {
+  font-size: 5rem;
+  color:#F4E8C1;
+  margin-left: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

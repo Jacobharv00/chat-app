@@ -16,12 +16,15 @@ function FirstPerson () {
 
   return (
     <ChatBox
+      style={ { cursor: 'pointer' } }
       messageList={ firstPersonMessageList.get() }
       onSendMessage={ handleSendMessage }
       settings={ {
         position: 'left',
-        navColor: 'green',
-        navText: 'Jacob'
+        navColor: 'blue',
+        primaryColor: 'blue',
+        secondaryColor: 'yellow',
+        navText: 'Jacob',
       } }
     />
   )

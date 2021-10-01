@@ -18,7 +18,9 @@ function SecondPerson () {
       onSendMessage={ handleSendMessage }
       settings={ {
         position: 'right',
-        navColor: 'blue',
+        navColor: 'yellow',
+        primaryColor: 'yellow',
+        secondaryColor: 'blue',
         navText: 'Gracie'
       } }
     />
