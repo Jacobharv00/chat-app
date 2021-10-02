@@ -8,41 +8,43 @@
   </a>
 </p>
 
-> Chat application that allows users to chat with someone else. I built this to test out using hookstate to manage global state. 
+![chat bubbles](https://media3.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif?cid=ecf05e473ko9rudtrjkqhd1082owvzvie5hw5dbzxjcbuihd&rid=giphy.gif&ct=g)
+
+> Chat application that allows users to chat with someone else. I built this to test out using hookstate to manage global state in my React applications. 
 
 ### 🏠 [Homepage](localhost:3000)
+[![Screen-Shot-2021-10-01-at-5-52-11-PM.png](https://i.postimg.cc/KvwjPg0s/Screen-Shot-2021-10-01-at-5-52-11-PM.png)](https://postimg.cc/ykh7BW4F)
 
 ### ✨ [Demo](None yet)
 
-## Install
+## 👨‍💻 [Tech]
+<ul>
+  <li>React</li>
+  <li>react-@hookstate/core</li>
+  <li>react-custom-chat</li>
+  <li>CSS</li>
+</ul>  
+
+## ✨ Install
 
 ```sh
-npm install
+npm install or (yarn)
 ```
 
-## Usage
+## ✨ Usage
 
 ```sh
-run npm start to run this app local. Click on both message bubbles and message the other user. 
+Run npm start to run this app local. Click on both of the message bubbles and message the other user. 
 ```
 
-## Run tests
+## ✍️ Author
 
-```sh
-npm run test
-```
-
-## Author
-
-👤 **Jacob Harvey**
+👤  **Jacob Harvey**
 
 * Website: https://jacobharv00.github.io/portfolio/
 * Github: [@Jacobharv00](https://github.com/Jacobharv00)
 * LinkedIn: [@jacobharvey19](https://linkedin.com/in/jacobharvey19)
 
-## Show your support
+## ✨ Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
